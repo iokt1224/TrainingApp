@@ -4,7 +4,7 @@
  * @param sum The sum that a pair of numbers must equal to.
  * @return True if a pair is found, false otherwise.
  */
-public boolean checkPairWithSum(int[] nums, int sum)
+public boolean hasPairWithSum(int[] nums, int sum)
 {
 
 
