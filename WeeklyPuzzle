@@ -1,0 +1,13 @@
+/**
+ * This method checks if the specified array has a pair of numbers which when added equal to the specified sum.
+ * @param nums The numbers being searched. The array must be in ascending order.
+ * @param sum The sum that a pair of numbers must equal to.
+ * @return True if a pair is found, false otherwise.
+ */
+public boolean checkPairWithSum(int[] nums, int sum)
+{
+
+
+}
+
+//Find the most optimal solution.
